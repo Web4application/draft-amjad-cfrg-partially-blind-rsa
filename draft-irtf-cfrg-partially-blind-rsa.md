@@ -2,15 +2,12 @@
 title: "Partially Blind RSA Signatures"
 abbrev: "Partially Blind RSA Signatures"
 category: info
-
 ipr: trust200902
 keyword: Internet-Draft
 stand_alone: yes
 pi: [toc, sortrefs, symrefs]
-
 docname: draft-irtf-cfrg-partially-blind-rsa-latest
 submissiontype: IRTF
-
 author:
  -  ins: G. A. Amjad
     name: Ghous A. Amjad
@@ -28,13 +25,13 @@ author:
     name: Kevin W. L. Yeo
     organization: Google
     email: "kwlyeo@cs.columbia.edu"
-
 normative:
-
 informative:
+---
 
 
---- abstract
+--- 
+# abstract
 
 This document specifies a blind RSA signature protocol that supports public metadata.
 It is an extension to the RSABSSA protocol recently specified by the CFRG.
